@@ -21,7 +21,7 @@ body {
   .matrix { text-align: center;
   }
 }
-.main-section {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -32,7 +32,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-adding-wrapper {
+.adding-wrapper {
   display: flex;
 }
 ul {
