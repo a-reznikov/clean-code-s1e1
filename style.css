@@ -50,6 +50,10 @@
   padding: 0px;
 }
 
+.section-adding {
+  margin-bottom: 16px;
+}
+
 .task-wrapper {
   list-style: none;
 }
@@ -132,6 +136,7 @@
 
 .task-wrapper > .task-name {
   padding-left: 10px;
+  margin: 0;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
